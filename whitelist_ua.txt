@@ -1,1 +1,2 @@
 @@|google.com.ua^$important
+@@|translate.google.com^$important
