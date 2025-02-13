@@ -2,6 +2,7 @@
 ! Ubuntu : https://launchpad.net/ubuntu/+archivemirrors
 @@|abqix.mm.fcix.net^$important
 @@|ap.edge.kernel.org^$important
+@@|au.mirrors.cicku.me^$important
 @@|codingflyboy.mm.fcix.net^$important
 @@|coresite.mm.fcix.net^$important
 @@|cz.archive.ubuntu.com^$important
@@ -88,6 +89,7 @@
 @@|ftp.usf.edu^$important
 @@|ftp.yz.yamagata-u.ac.jp^$important
 @@|giano.com.dist.unige.it^$important
+@@|gsl-syd.mm.fcix.net^$important
 @@|hk.mirrors.thegigabit.com^$important
 @@|hkg.mirror.rackspace.com^$important
 @@|iad.mirror.rackspace.com^$important
@@ -203,6 +205,7 @@
 @@|mirrors.ptisp.pt^$important
 @@|mirrors.ptisp.pt^$important
 @@|mirrors.rit.edu^$important
+@@|mirrors.rpmfusion.org^$important
 @@|mirrors.sth.sze.hu^$important
 @@|mirrors.syringanetworks.net^$important
 @@|mirrors.tscak.com^$important

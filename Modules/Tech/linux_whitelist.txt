@@ -23,9 +23,11 @@
 @@|_http._tcp.security.debian.org^$important
 @@|_http._tcp.security.ubuntu.com^$important
 @@|_http._tcp.us.archive.ubuntu.com^$important
+@@|_https._tcp.esm.ubuntu.com^$important
 @@|_https._tcp.metadata.ftp-master.debian.org^$important
 @@|_https._tcp.mirror.aarnet.edu.au^$important
 @@|_https._tcp.mirror.internet.asn.au^$important
+@@|_https._tcp.motd.ubuntu.com^$important
 @@|_https._tcp.packages.zorinos.com^$important
 @@|aarnet.edu.au^$important
 @@|accounts.fedoraproject.org^$important
@@ -64,6 +66,7 @@
 @@|builds.garudalinux.org^$important
 @@|ca-mirror.chaotic.cx^$important
 @@|canonical-bos01.cdn.snapcraftcontent.com^$important
+@@|canonical-lgw01.cdn.snapcraftcontent.com^$important
 @@|cdimage.debian.org^$important
 @@|cdimage.deepin.com^$important
 @@|cdimage.ubuntu.com^$important
@@ -111,6 +114,7 @@
 @@|docs.freebsd.org^$important
 @@|docs.rockylinux.org^$important
 @@|download*.vmware.com^$important
+@@|download.copr.fedorainfracloud.org^$important
 @@|download.fedoraproject.org^$important
 @@|download.freebsd.org^$important
 @@|download.kde.org^$important
@@ -122,6 +126,7 @@
 @@|elementary.io^$important
 @@|en.opensuse.org^$important
 @@|en.osdn.net^$important
+@@|esm.ubuntu.com^$important
 @@|europe.mirror.pkgbuild.com^$important
 @@|extensions.gnome.org^$important
 @@|fastcopy.jp^$important
@@ -131,6 +136,8 @@
 @@|fedora.mirror.digitalpacific.com.au^$important
 @@|fedora.mirror.liteserver.nl^$important
 @@|fedora.mirrorservice.org^$important
+@@|fedoramagazine.org^$important
+@@|fedoraproject-updates-archive.fedoraproject.org^$important
 @@|fedoraproject.org^$important
 @@|flathub.org^$important
 @@|flatpak.elementary.io^$important
@@ -181,6 +188,8 @@
 @@|linuxmint.com^$important
 @@|lists.ubuntu.com^$important
 @@|live.linuxmint.com^$important
+@@|livepatch.canonical.com^$important
+@@|login.ubuntu.com^$important
 @@|lutris.net^$important
 @@|man.archlinux.org^$important
 @@|manjaro.mirrors.theom.nz^$important
@@ -252,6 +261,7 @@
 @@|mirrors.wikimedia.org^$important
 @@|mirrors.xtom.de^$important
 @@|mirrors.xtom.nl^$important
+@@|motd.ubuntu.com^$important
 @@|multipass.run^$important
 @@|mxlinux.org^$important
 @@|mxrepo.com^$important
@@ -267,6 +277,7 @@
 @@|opensuse.ipacct.com^$important
 @@|opensuse.mirrors.theom.nz^$important
 @@|osdn.net^$important
+@@|ostree.fedoraproject.org^$important
 @@|packages.linuxmint.com^$important
 @@|packages.zorinos.com^$important
 @@|pacman.archlinux.org^$important
@@ -333,6 +344,8 @@
 @@|www.debian.org^$important
 @@|www.deepin.org^$important
 @@|www.devuan.org^$important
+@@|www.fedoramagazine.org^$important
+@@|www.fedoraproject.org^$important
 @@|www.feyrer.de^$important
 @@|www.fosslinux.com^$important
 @@|www.freebsd.org^$important

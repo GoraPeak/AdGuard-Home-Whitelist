@@ -3,9 +3,11 @@
 @@|addons-amo.cdn.mozilla.net^$important
 @@|addons.cdn.mozilla.net^$important
 @@|addons.mozilla.org^$important
+@@|assets.mozilla.net^$important
 @@|aus5.mozilla.org^$important
 @@|blog.mozilla.org^$important
 @@|bugzilla.mozilla.org^$important
+@@|cdn.accounts.firefox.com^$important
 @@|code.cdn.mozilla.net^$important
 @@|contile.services.mozilla.com^$important
 @@|developer.mozilla.org^$important
@@ -21,7 +23,10 @@
 @@|mozilla.net^$important
 @@|mozilla.org^$important
 @@|mozilla.wpengine.com^$important
+@@|mozorg.cdn.mozilla.net^$important
 @@|normandy.cdn.mozilla.net^$important
+@@|prod.outgoing.prod.webservices.mozgcp.net^$important
+@@|publicsuffix.org^$important
 @@|push.services.mozilla.com^$important
 @@|savanna.mozillazine.org^$important
 @@|services.addons.mozilla.org^$important
@@ -34,6 +39,7 @@
 @@|themes.mozilla.org^$important
 @@|tiles.services.mozilla.com^$important
 @@|tracking-protection.cdn.mozilla.net^$important
+@@|tracking-protection.prod.mozaws.net^$important
 @@|updates.push.services.mozilla.com^$important
 @@|versioncheck-bg.addons.mozilla.org^$important
 @@|versioncheck.addons.mozilla.org^$important

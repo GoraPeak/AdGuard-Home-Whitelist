@@ -55,6 +55,7 @@
 @@|achievements.xboxlive.com^$important
 @@|activity.windows.com^$important
 @@|adl.windows.com^$important
+@@|admin.microsoft.com^$important
 @@|afdxtest.z01.azurefd.net^$important
 @@|ak.spatial.virtualearth.net^$important
 @@|aka.ms^$important
@@ -96,6 +97,8 @@
 @@|az725175.vo.msecnd.net^$important
 @@|az764295.vo.msecnd.net^$important
 @@|b-ring.msedge.net^$important
+@@|bam.nr-data.net^$important
+@@|bat.bing.com^$important
 @@|beige.xboxservices.com^$important
 @@|binaries.templates.cdn.office.net^$important
 @@|bing.at^$important
@@ -182,6 +185,7 @@
 @@|dev.xbox.com^$important
 @@|devblogs.microsoft.com^$important
 @@|device.auth.xboxlive.com^$important
+@@|devtools.azureedge.net^$important
 @@|displaycatalog.mp.microsoft.com^$important
 @@|dl.delivery.mp.microsoft.com^$important
 @@|dlassets-ssl.xboxlive.com^$important
@@ -236,6 +240,7 @@
 @@|fe2cr.update.microsoft.com^$important
 @@|fe3cr.delivery.mp.microsoft.com^$important
 @@|feedback.xbox.com^$important
+@@|fg.microsoft.map.fastly.net^$important
 @@|flow.microsoft.com^$important
 @@|fluent2.microsoft.design^$important
 @@|forms.office.com^$important
@@ -279,6 +284,7 @@
 @@|insideruser.microsoft.com^$important
 @@|ipv6.login.live.com^$important
 @@|ipv6.msftconnecttest.com^$important
+@@|ipv6.msftncsi.com^$important
 @@|jcmsfd.account.microsoft.com^$important
 @@|jp.pipe.aria.microsoft.com^$important
 @@|js.live.net^$important
@@ -369,6 +375,7 @@
 @@|paymentinstruments.mp.microsoft.com^$important
 @@|paymentsredirectionservice.cp.microsoft.com^$important
 @@|pcmanager.microsoft.com^$important
+@@|pcmanagerconfig.azurewebsites.net^$important
 @@|peoplehub.xboxlive.com^$important
 @@|photos.live.com^$important
 @@|play.halo.part.xbox.com^$important
@@ -385,6 +392,7 @@
 @@|privacy.microsoft.com^$important
 @@|privacy.xboxlive.com^$important
 @@|prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com^$important
+@@|prod.client.wosc.services.microsoft.com^$important
 @@|prod.rewardsplatform.microsoft.com^$important
 @@|products.office.com^$important
 @@|profile.xboxlive.com^$important
@@ -409,6 +417,7 @@
 @@|screenshotscontent-*.xboxlive.com^$important
 @@|sdx.microsoft.com^$important
 @@|secure.aadcdn.microsoftonline-p.com^$important
+@@|secureclock.playready.microsoft.com^$important
 @@|securityintelligencecenter-eastus.azurewebsites.net^$important
 @@|self.events.data.microsoft.com^$important
 @@|server.events.data.microsoft.com^$important
@@ -443,6 +452,7 @@
 @@|spo-ring.msedge.net^$important
 @@|spoppe-b.azureedge.net^$important
 @@|spsprodeau1.vssps.visualstudio.com^$important
+@@|static.edge.microsoftapp.net^$important
 @@|statics-*.onestore.ms^$important
 @@|statics-xbc-eas.xbox.com^$important
 @@|statics.teams.cdn.live.net^$important
@@ -533,6 +543,7 @@
 @@|www.clarity.ms^$important
 @@|www.microsoft.com^$important
 @@|www.msftconnecttest.com*^$important
+@@|www.msftncsi.com^$important
 @@|www.msn.com^$important
 @@|www.office.com^$important
 @@|www.onenote.com^$important

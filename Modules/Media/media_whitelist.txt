@@ -16,6 +16,7 @@
 @@|api.odysee.live^$important
 @@|api.powercloud.cyberlink.com^$important
 @@|api.spotify.com^$important
+@@|api.weatherapi.com^$important
 @@|apresolve.spotify.com^$important
 @@|artifacts.videolan.org^$important
 @@|audio-ak.spotify.com.edgesuite.net^$important
@@ -56,6 +57,7 @@
 @@|exp.wg.spotify.com^$important
 @@|external-preview.redd.it^$important
 @@|extract.services.disqus.com^$important
+@@|files-proxy.wixmp.com^$important
 @@|forum.doom9.org^$important
 @@|forum.makemkv.com^$important
 @@|forum.videolan.org^$important
@@ -69,8 +71,10 @@
 @@|get.videolan.org^$important
 @@|global-uploads.webflow.com^$important
 @@|gpodder.net^$important
+@@|guc-spclient.spotify.com^$important
 @@|help.cyberlink.com^$important
 @@|hub.deviantart.net^$important
+@@|image-cdn-ak.spotifycdn.com^$important
 @@|image.v.rokfin.com^$important
 @@|images*.alphacoders.com^$important
 @@|images.alphacoders.com^$important
@@ -78,6 +82,7 @@
 @@|images.wikia.com^$important
 @@|images.wikia.nocookie.net^$important
 @@|images5.alphacoders.com^$important
+@@|img-deviantart.wixmp.com^$important
 @@|img.production.rokfin.com^$important
 @@|imgur.com^$important
 @@|irc.libera.chat^$important
@@ -89,6 +94,7 @@
 @@|madvr.com^$important
 @@|madvrlabs.wpengine.com^$important
 @@|manifest-gce-us-east1-production.cfcdn.v.rokfin.com^$important
+@@|mediaservices.cdn-apple.com^$important
 @@|membership.cyberlink.com^$important
 @@|mobile-ap.spotify.com^$important
 @@|mpc-be.org^$important
@@ -108,6 +114,7 @@
 @@|secure.rokfin.com^$important
 @@|sentry.odysee.tv^$important
 @@|software.manjaro.org^$important
+@@|sonos.plex.tv^$important
 @@|spclient.wg.spotify.com^$important
 @@|spotify.com^$important
 @@|ssl.p.jwpcdn.com^$important

@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
 
-- Current Version: 1.2.6.3
-- Last Updated (AEST): 2024-05-10 05:36:39PM
+- Current Version: 1.2.8.1
+- Last Updated (AEST): 2024-12-08 15:26:00 +1100
 
 ## Intro ✍
 
@@ -18,18 +18,14 @@ __It's a great starting point for people who wish to run AdGuard Home in a stric
 
 ℹ Please learn [AdGuard Home's interface](https://github.com/AdguardTeam/AdGuardHome/wiki) before using this list.
 
-_AdGuard-Home-Whitelist © 2024 - hl2guide_
+_AdGuard-Home-Whitelist © hl2guide 2024_
 
-## Recent News 📰
+## 📰 Important
 
-| Date and Time 📅 | Note 📓 |
-|---------------|------|
-| 2024-05-10 05:36:39PM | Added more rules |
-| 2024-05-03 11:20:55AM | Added more rules |
-| 2024-04-18 07:20:36PM | Added more rules |
-| 2024-04-11 05:21:02PM | Added more rules |
-| 2024-04-04 05:17:57PM | Added more rules |
-| 2024-03-21 11:49:41AM | Added more rules |
+- As of Dec 8th, 2024 I've paused updating this repo and am no longer using AdGuard Home
+    - This is due to bad release of AdGuard Home (related to permissions) that broke AdGuard Home's install on Windows 11 making it unviable
+- I suggest you consider better options like AdGuard for Windows (paid, but sometimes it's cheap)
+- I'm likely no longer going to update this repo
 
 ## Aspects ⏺
 
@@ -45,8 +41,11 @@ _AdGuard-Home-Whitelist © 2024 - hl2guide_
 | 🦠 Second-Opinion Malware Scanners | _Malwarebytes, SuperAntispyware, ESET Online Scanner and HitManPro_ |
 | ✍ Development Languages | _C#, Python, Golang, Ruby etc_ |
 | 📚 Programming Editors | _Visual Studio Code, Visual Studio and VSCodium_ |
+| 🐧 Linux Software | _Fedora, Ubuntu etc_ |
+| 🌏 Internet Browsers | _Firefox, Brave, Vivaldi etc_ |
 | 🏬 Australian specific stores | _JB Hifi, Coles, Woolworths, OfficeWorks etc_ |
 | 🏦 Australian government websites | _Election, tax office etc_ |
+| 💵 Australian banking websites | _NAB, ING Direct Australia etc_ |
 
 and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt)
 
@@ -63,8 +62,8 @@ and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdG
 
 ### Details 🧾
 
-* __Expected AdGuard Home Average RAM Usage:__ around 22MB
-* __Number of Rules:__ over 4900
+* __Expected AdGuard Home Average RAM Usage:__ around 60MB
+* __Number of Rules:__ over 5800
 
 ## Updates 👩‍💻
 
@@ -73,22 +72,3 @@ I will update this repo infrequently and sporadically.
 ## Usage 💚
 
 See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAGE.md) for more information.
-
-## Old News 📰
-
-| Date and Time 📅 | Note 📓 |
-|---------------|------|
-| 2024-02-26 01:41:29PM | Added more rules |
-| 2024-02-23 06:36:48AM | Added more rules |
-| 2024-02-16 12:46:58PM | Added more rules |
-| 2024-02-12 01:30:37PM | Added more rules |
-| 2024-02-03 11:47:36PM | Added more rules |
-| 2024-01-30 04:47:38PM | Added more rules |
-| 2023-12-31 05:15:21PM | Added more rules (happy new year!) |
-| 2023-08-31 06:45:48PM | Added more rules |
-| 2023-08-08 09:04:22PM | Back from hiatus, added a rule and updated USAGE.md info |
-| 2022-12-05 12:30:10PM | Added more security rules |
-| 2022-10-11 06:05:36PM | Fixed EA App |
-| 2022-10-01 05:42:10PM | Added many new rules |
-| 2022-09-09 04:52:33PM | Added an Android module |
-| August, 2022 | Added more Fedora and Ubuntu mirrors |
